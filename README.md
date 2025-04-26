@@ -1,6 +1,6 @@
 - Hi, I’m @animeqvin 👋
 - I’m interested in AI in healthcare
-- I’m currently learning Java and MATLAB
+- I’m currently learning MATLAB
 - I’m looking to collaborate on open-source projects related to AI
 - You can reach me via email: madina4758@gmail.com
 - Fun fact: I love baking and have even published a book about it
