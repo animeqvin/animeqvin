@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @animeqvin
-- 👀 I’m interested in AI in healthcare
-- 🌱 I’m currently learning ml ai (language)/tool
-- 💞️ I’m looking to collaborate on open-source projects related to AI
-- 📫 You can reach me via email: madina4758@gmail.com
-- ⚡ Fun fact: I love baking and have even published a book about it:: https://www.calameo.com/books/007474327f9a025e1679b?fbclid=PAZXh0bgNhZW0CMTEAAaZfzA7m1yubhmuitgvXlphosP1qMVixp88aLtbDjwAENxv6VkygN5t2wQo_aem_mNseuLBbS5n6txPHk5yS3w 
+- Hi, I’m @animeqvin 👋
+- I’m interested in AI in healthcare
+- I’m currently learning ml ai (language)/tool
+- I’m looking to collaborate on open-source projects related to AI
+- You can reach me via email: madina4758@gmail.com
+- Fun fact: I love baking and have even published a book about it
+- You can get an access to my book via this link: https://www.calameo.com/books/007474327f9a025e1679b?fbclid=PAZXh0bgNhZW0CMTEAAaZfzA7m1yubhmuitgvXlphosP1qMVixp88aLtbDjwAENxv6VkygN5t2wQo_aem_mNseuLBbS5n6txPHk5yS3w 
